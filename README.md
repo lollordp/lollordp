@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm **Lorenzo Rossi**, a Mathematical Trading and Finance MSc student. 
+
 I created this page to showcase my journey and prepare for a career in the quantitative finance industry.
 
 - 🔭 **Current Work:** I'm involved in quantitative finance projects, including portfolio optimization, machine learning applications in trading, and quant trading strategies.
